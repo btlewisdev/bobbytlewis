@@ -1,12 +1,12 @@
-/* styles.css */
 body {
-  text-align: center; /* Center text and inline elements */
+  text-align: center;
   display: flex;
   flex-direction: column;
-  align-items: center; /* Center flex items */
+  align-items: center;
   margin: 0;
-  min-height: 100vh; /* Full height */
-  justify-content: center; /* Center content vertically */
+  min-height: 100vh;
+  justify-content: center;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 img {
@@ -14,17 +14,14 @@ img {
   width: 100%; /* Make the image responsive */
   height: auto; /* Maintain aspect ratio */
 }
-.centered-text-block {
-  text-align: justify; /* Justify text for even margins */
-  max-width: 495px; /* Or any specific width you prefer */
-  margin: 0 auto; /* Center the block horizontally */
-  padding: 20px; /* Optional: Adds some space inside the block */
-}
 
-body {
-  font-family: 'Courier New', Courier, monospace;
+.centered-text-block {
+  text-align: justify;
+  max-width: 495px;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 .contact {
-    text-align: center;
+  text-align: center;
 }
