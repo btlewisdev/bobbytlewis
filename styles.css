@@ -10,7 +10,7 @@ body {
 }
 
 img {
-  max-width: 50%; /* Make the image smaller and responsive */
+  max-width: 495px; /* Make the image smaller and responsive */
   height: auto; /* Maintain aspect ratio */
 }
 .centered-text-block {
