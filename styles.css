@@ -25,3 +25,7 @@ img {
 .contact {
   text-align: center;
 }
+a {
+  color: green; /* Change the color of the links to green */
+  text-decoration: none; /* Remove the underline from the links */
+}
