@@ -1,0 +1,29 @@
+/* styles.css */
+body {
+  text-align: center; /* Center text and inline elements */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center flex items */
+  margin: 0;
+  min-height: 100vh; /* Full height */
+  justify-content: center; /* Center content vertically */
+}
+
+img {
+  max-width: 50%; /* Make the image smaller and responsive */
+  height: auto; /* Maintain aspect ratio */
+}
+.centered-text-block {
+  text-align: justify; /* Justify text for even margins */
+  max-width: 495px; /* Or any specific width you prefer */
+  margin: 0 auto; /* Center the block horizontally */
+  padding: 20px; /* Optional: Adds some space inside the block */
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.contact {
+    text-align: center;
+}
